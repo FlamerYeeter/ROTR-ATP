@@ -1,7 +1,7 @@
 ModificationType: Patch
 Name: Anti Thesis Patch
-Version: 0.4
-SimpleDownloadLink: https://www.dropbox.com/scl/fi/ja2cwxppwmprtizjsw8xq/AntiThesisPatch-ROTR-V0.4.zip?rlkey=qbt52gkwzqagndwcymomq29y6&st=vvusc3pd&dl=1
+Version: 0.4 HOTFIX
+SimpleDownloadLink: https://www.dropbox.com/scl/fi/ja2cwxppwmprtizjsw8xq/AntiThesisPatch-ROTR-V0.4.zip?rlkey=qbt52gkwzqagndwcymomq29y6&st=jkr39amh&dl=1
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''
@@ -13,3 +13,4 @@ S3FolderName: atp-files
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
